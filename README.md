@@ -1,1 +1,10 @@
-# ipynb
+Feb.2.2018.ipynb
+README.md
+extinctionNGCDO.pdf
+extinctionNGCDU.pdf
+extinctionSGCDO.pdf
+extinctionSGCDU.pdf
+starNGCDO.pdf
+starNGCDU.pdf
+starSGCDO.pdf
+starSGCDU.pdf
